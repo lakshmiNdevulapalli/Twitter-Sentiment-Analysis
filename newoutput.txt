@@ -1,0 +1,12 @@
+<class 'dict'>
+-5 sentiments  9
+-4 sentiments  31
+-3 sentiments  36
+-2 sentiments  60
+-1 sentiments  77
+ 0 sentiments  0
+ 1 sentiments  57
+ 2 sentiments  78
+ 3 sentiments  73
+ 4 sentiments  26
+ 5 sentiments  0
